@@ -1,12 +1,4 @@
             PROJECT 1:--
-Cat Facts & Doggo Pics API
-A simple, fun web application that fetches random, mind-blowing facts about cats and pairs them with adorable, high-quality images of dogs. Because why choose one when you can have both?
-
-Gemini said
-That sounds like a fun project! Combining the internet's two favorite things—cats and dogs—is a classic way to practice API integration.
-
-Since you've already got your Netlify deployment ready to go, here is a clean, professional, and slightly witty README.md to make your repository stand out.
-
 🐾 Cat Facts & Doggo Pics API
 A simple, fun web application that fetches random, mind-blowing facts about cats and pairs them with adorable, high-quality images of dogs. Because why choose one when you can have both?
 
@@ -19,5 +11,6 @@ Infinite Doggo Gallery: Generates a new, random dog image every time you click u
 Responsive Design: Works perfectly on desktops, tablets, and phones.
 
 One-Click Refresh: Get a fresh combo of "Aww" and "Wait, really?" with a single button.
+
 
 🚀 Live Demo: https://app.netlify.com/projects/dog-cat-api/overview
