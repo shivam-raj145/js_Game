@@ -13,4 +13,4 @@ Responsive Design: Works perfectly on desktops, tablets, and phones.
 One-Click Refresh: Get a fresh combo of "Aww" and "Wait, really?" with a single button.
 
 
-🚀 Live Demo: https://app.netlify.com/projects/dog-cat-api/
+🚀 Live Demo: https://dog-cat-api.netlify.app/
